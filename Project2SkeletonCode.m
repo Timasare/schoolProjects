@@ -45,7 +45,7 @@ scaleFactor = 1000;  % we are working with small strains - you will need scaling
 
 
 
-% Problem 3 use the provided Eiffel input:
+
 %Eiffel; % simply uncomment this 
 %(have a look at the provided file for details)
 
