@@ -1,10 +1,4 @@
-% Computational Methods
-% November 2022
-% Project 2 - Bars in 2D
-%
-% Name          :
-% Student Number:
-
+% Computational Method
 clc;clear;close all
 % default settings 
 set(0,'DefaultFigurePosition', [100 500 500 400],...
@@ -16,7 +10,7 @@ set(0,'DefaultFigurePosition', [100 500 500 400],...
 
 % Input
 
-% Problem 1: Three Bar Truss Example (see lecture notes example section 11.1) 
+% Problem 1: Three Bar Truss Example 
 % FILL IN matrices/vectors:
 
 %coordinates of the global nodes
@@ -49,7 +43,7 @@ DirichletBCs             = [1, 2, 0; 2, 2, 0 ; 3, 1, 0];
 
 scaleFactor = 1000;  % we are working with small strains - you will need scaling for visualisation 
 
-% Problem 2 use your own input
+
 
 % Problem 3 use the provided Eiffel input:
 %Eiffel; % simply uncomment this 
