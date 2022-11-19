@@ -1,10 +1,3 @@
-% Computational Methods
-% November 2022
-% Project 2 - Bars in 2D
-%
-% Name          :
-% Student Number:
-
 clc;clear;close all
 % default settings 
 set(0,'DefaultFigurePosition', [100 500 500 400],...
